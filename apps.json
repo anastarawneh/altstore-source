@@ -1,5 +1,8 @@
 {
   "name": "Anas' Source",
   "identifier": "com.anastarawneh.source",
-  "sourceURL": ""
+  "sourceURL": "https://raw.githubusercontent.com/anastarawneh/altstore-source/master/apps.json",
+  "apps": [
+    
+  ]
 }
