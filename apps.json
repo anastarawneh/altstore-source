@@ -15,7 +15,10 @@
       "localizedDescription": "Spotify++ v8.5.2 by @julioverne",
       "iconURL": "https://raw.githubusercontent.com/anastarawneh/altstore-source/master/apps/spotify.png",
       "tintColor": "1DB954",
-      "size": 30444686
+      "size": 30444686,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/anastarawneh/altstore-source/master/apps/spotify1.png"
+      ]
     }
   ]
 }
